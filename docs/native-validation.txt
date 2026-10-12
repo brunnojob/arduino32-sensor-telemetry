@@ -1,0 +1,5 @@
+make: Entering directory '/workspace/scratch/206503326401/projects/arduino32-sensor-telemetry'
+make: Nothing to be done for 'all'.
+./build/test
+./build/integration
+make: Leaving directory '/workspace/scratch/206503326401/projects/arduino32-sensor-telemetry'
