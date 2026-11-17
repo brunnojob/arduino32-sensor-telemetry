@@ -1,4 +1,4 @@
 date=2026-11-18
-seq=474
-ts=1794949800
-scope=deep-sleep
+seq=475
+ts=1794949815
+scope=ring-buffer
