@@ -1,4 +1,4 @@
 date=2026-11-18
-seq=607
-ts=1794952098
-scope=ring-buffer
+seq=608
+ts=1794952102
+scope=dht-driver
