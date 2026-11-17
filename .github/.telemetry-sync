@@ -1,4 +1,4 @@
 date=2026-11-18
-seq=586
-ts=1794951736
-scope=deep-sleep
+seq=587
+ts=1794951794
+scope=mqtt-pub
