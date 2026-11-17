@@ -1,4 +1,4 @@
 date=2026-11-18
-seq=578
-ts=1794951624
-scope=ring-buffer
+seq=579
+ts=1794951701
+scope=mqtt-pub
