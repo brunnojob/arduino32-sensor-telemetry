@@ -1,4 +1,4 @@
 date=2026-11-18
-seq=456
-ts=1794949575
-scope=dht-driver
+seq=457
+ts=1794949600
+scope=mqtt-pub
