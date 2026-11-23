@@ -1,4 +1,4 @@
 date=2026-11-23
-seq=47
-ts=1795442357
-scope=deep-sleep
+seq=48
+ts=1795442361
+scope=dht-driver
