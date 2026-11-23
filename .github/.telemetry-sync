@@ -1,4 +1,4 @@
 date=2026-11-23
-seq=26
-ts=1795442260
-scope=dht-driver
+seq=27
+ts=1795442261
+scope=ring-buffer
