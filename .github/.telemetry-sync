@@ -1,3 +1,4 @@
-rev=735
-ts=1788831432
-scope=telemetry
+date=2026-11-23
+seq=1
+ts=1795442029
+scope=ring-buffer
